@@ -1,5 +1,5 @@
 # Hack The Deep
-Repository for AMNH's Fourth Annual BridgeUP Hackathon, Hack The Deep!
+Repository for AMNH's Fourth Annual BridgeUP: STEM Hackathon, Hack The Deep!
 
 The root directory of this repository contains data, documents, and images that are general purpose and could pertain to multiple challenges. Challenge specific data, documents, and images can be found under the challenges directory in a subdirectory with the same name as that challenge. Cloning this repository will give you local copies of all source files involved with all challenges that are not available on hard drives at the event (see organizers or librarians for details).
 
