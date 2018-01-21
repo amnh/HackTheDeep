@@ -1,0 +1,142 @@
+	In viewer thingy, at top of page
+
+1. Animation of reconstruction of cytoskeleton only, rotating about approximate anteroposterior axis, starting with view on cell's dorsal aspect, anterior to top.
+
+2. Animation of reconstruction of cytoskeleton and plasma membrane, rotating about approximate anteroposterior axis, starting with view on cell's dorsal aspect, anterior to top.
+
+3. Animation of full reconstruction, including cytoskeleton, plasma membrane, mitochondrion (lavender) and nucleus (blue), rotating about approximate anteroposterior axis, starting with view on cell's dorsal aspect, anterior to top.
+
+4. Animation of reconstruction of cytoskeleton only, rotating about approximate dorsoventral axis, starting with view on cell's anterior aspect, dorsal to top.
+
+5. Animation of reconstruction of cytoskeleton and plasma membrane, rotating about approximate dorsoventral axis, starting with view on cell's anterior aspect, dorsal to top.
+
+6. Animation of full reconstruction, including cytoskeleton, plasma membrane, mitochondrion (lavender) and nucleus (blue), rotating about approximate dorsoventral axis, starting with view on cell's anterior aspect, dorsal to top.
+
+7. Animation of reconstruction of cytoskeleton only, rotating about approximate left-right axis, starting with view on cell's anterior-dorsal aspect, dorsal and posterior to top.
+
+8. Animation of full reconstruction, including cytoskeleton, plasma membrane, mitochondrion (lavender) and nucleus (blue), rotating about approximate left-right axis, starting with view on cell's anterior-dorsal aspect, dorsal and posterior to top.
+
+
+	After paper, at bottom of page
+
+1. Anaglyphs of reconstruction aligned along anterior flagellum.  Posterior/dorsum is at top of image.
+	Top left: All reconstructed components rendered.  View is from tip to base of anterior flagellum, or approximately anterior-dorsal to posterior-ventral.
+	Top right: All reconstructed components rendered.  View is from base to tip of flagellum, or approximately posterior-ventral to anterior-dorsal.
+	Bottom left: Only cytoskeleton rendered.  View is from tip to base of anterior flagellum, or approximately anterior-dorsal to posterior-ventral.
+	Bottom right: Only cytoskeleton rendered.  View is from base to tip of flagellum, or approximately posterior-ventral to anterior-dorsal.
+
+2. Anaglyphs of reconstruction.
+	Top left: All reconstructed components rendered.  View is directly anterior to cell, looking toward posterior, with all membranous components rendered.
+	Top right: All reconstructed components rendered.  View is directly posterior to cell, looking toward anterior, with dorsal to top of image.
+	Centre left: Only cytoskeleton rendered.  View directly anterior to cell, looking toward posterior, with dorsal to top of image.
+	Centre right: Only cytoskeleton rendered.  View directly posterior to cell, looking toward anterior, with dorsal to top of image.
+	Bottom left: Only cytoskeleton rendered.  View of 'crescent structure' from posterior/ventral of cell, with ventral/anterior to top.
+	Bottom right: Only cytoskeleton rendered.  View directly dorsal to fibre connecting basal bodies, with anterior to top.
+
+3. Anaglyphs of reconstruction aligned along dorsoventral axis.  Anterior it to top of image.
+	Top left: All reconstructed components rendered.  View is from ventral to dorsal.
+	Top right: All reconstructed components rendered.  View is from dorsal to ventral.
+	Bottom left: Only cytoskeleton rendered.  View is from ventral to dorsal.
+	Bottom right: Only cytoskeleton rendered.  View is from dorsal to ventral.
+
+4. Anaglyphs of reconstruction, aligned along posterior flagellum.  Dorsal is to top of image.
+	Top left: All reconstructed components rendered.  View is from tip to base of posterior flagellum, or from left to right of cell.  Anterior is to left of image.
+	Top right: All reconstructed components rendered.  View is from base to tip of posterior flagellum, or from right to left of cell.  Anterior is to right of image.
+	Bottom left: Only cytoskeleton rendered.  View is from tip to base of posterior flagellum, or from left to right of cell.  Anterior is to left of image.
+	Bottom right: Only cytoskeleton rendered.  View is from base to tip of posterior flagellum, or from right to left of cell.  Anterior is to right of image.
+
+5. Animation of reconstruction of cytoskeleton only, rotating about approximate anteroposterior axis, starting with view on cell's dorsal aspect, anterior to top.
+
+6. Animation of reconstruction of cytoskeleton and plasma membrane, rotating about approximate anteroposterior axis, starting with view on cell's dorsal aspect, anterior to top.
+
+7. Animation of full reconstruction, including cytoskeleton, plasma membrane, mitochondrion (lavender) and nucleus (blue), rotating about approximate anteroposterior axis, starting with view on cell's dorsal aspect, anterior to top.
+
+8. Animation of reconstruction of cytoskeleton only, rotating about approximate dorsoventral axis, starting with view on cell's anterior aspect, dorsal to top.
+
+9. Animation of reconstruction of cytoskeleton and plasma membrane, rotating about approximate dorsoventral axis, starting with view on cell's anterior aspect, dorsal to top.
+
+10. Animation of full reconstruction, including cytoskeleton, plasma membrane, mitochondrion (lavender) and nucleus (blue), rotating about approximate dorsoventral axis, starting with view on cell's anterior aspect, dorsal to top.
+
+11. High-resolution rendering of cytoskeleton and plasma membrane, aligned along anterior flagellum, looking from base to tip, or approximately posterior-ventral to anterior-dorsal.  Posterior-dorsal is at top of image.
+
+12. High-resolution rendering of full reconstruction, including cytoskeleton, plasma membrane, mitochondrion (lavender) and nucleus (blue), aligned along anterior flagellum, looking from tip to base, or approximately anterior-dorsal to posterior-ventral.  Posterior-dorsal is at top of image.
+
+13. High-resolution rendering of cytoskeleton and plasma membrane, aligned along anteroposterior axis, looking from posterior to anterior.  Dorsal is at top of image.
+
+14. High-resolution rendering of full reconstruction, including cytoskeleton, plasma membrane, mitochondrion (lavender) and nucleus (blue), looking from anterior to posterior.  Dorsal is at top of image.
+
+15. High-resolution rendering of full reconstruction, including cytoskeleton, plasma membrane, mitochondrion (lavender) and nucleus (blue), looking from ventral to dorsal.  Anterior is at top of image.
+
+16. High-resolution rendering of full reconstruction, including cytoskeleton, plasma membrane, mitochondrion (lavender) and nucleus (blue), looking from dorsal to ventral.  Anterior is at top of image.
+
+17. High-resolution rendering of cytoskeleton and plasma membrane, looking from base to tip of posterior flagellum, or from right to left of cell.  Dorsal is at top of image, anterior to the right.
+
+18. High-resolution rendering of full reconstruction, including cytoskeleton, plasma membrane, mitochondrion (lavender) and nucleus (blue), looking from tip to base of posterior flagellum, or from left to right of cell.  Dorsal is at top of image, anterior to the left.
+
+19. High-resolution rendering of cytoskeleton only, looking from base to tip of anterior flagellum, or approximately posterior-ventral to anterior-dorsal.  Posterior-dorsal is at top of image.
+
+20. High-resolution rendering of cytoskeleton only, looking from tip to base of anterior flagellum, or approximately anterior-dorsal to posterior-ventral.  Posterior-dorsal is at top of image.
+
+21. High-resolution rendering of cytoskeleton only, looking from posterior to anterior.  Dorsal is at top of image.
+
+22. High-resolution rendering of cytoskeleton only, looking from anterior to posterior.  Dorsal is at top of image.
+
+23. High-resolution rendering of flagellar apparatus only (omitting peripheral microtubules), looking from tip to base of both flagella, toward the 'crescent structure'.  Ventral is at top of image.
+
+24. High-resolution rendering of cytoskeleton only, looking from ventral to dorsal.  Anterior is at top of image.
+
+25. High-resolution rendering of cytoskeleton only, looking from dorsal to ventral.  Anterior is at top of image.
+
+26. High-resolution rendering of flagellar apparatus only (omitting peripheral microtubules), looking roughly from dorsal to ventral, directly over fibre connecting basal bodies.  Anterior is at top of image.
+
+27. High-resolution rendering of cytoskeleton only, looking roughly from dorsal to ventral, directly over fibre connecting basal bodies.  Anterior is at top of image.
+
+28. High-resolution rendering of cytoskeleton only, looking from base to tip of posterior flagellum, or approximately right to left through cell.  Dorsal is at top of image.
+
+29. High-resolution rendering of cytoskeleton only, looking from tip to base of posterior flagellum, or approximately left to right through cell.  Dorsal is at top of image.
+
+30. Animation of reconstruction of cytoskeleton only, rotating about approximate left-right axis, starting with view on cell's anterior-dorsal aspect, dorsal and posterior to top.
+
+31. Animation of full reconstruction, including cytoskeleton, plasma membrane, mitochondrion (lavender) and nucleus (blue), rotating about approximate left-right axis, starting with view on cell's anterior-dorsal aspect, dorsal and posterior to top.
+
+32. Stereograms of cytoskeleton only.
+	Top pair: view directly dorsal to fibre connecting basal bodies, looking roughly dorsal to ventral.  Anterior is at top of image.
+	Bottom pair: view from tip to base of both flagella, toward the 'crescent structure'.  Ventral is at top of image.
+
+33. Stereograms of cell viewed from base to tip of anterior flagellum, or approximately posterior-ventral to anterior-dorsal.  Posterior-dorsal is at top of image.
+	Top pair: cytoskeleton and plasma membrane rendered.
+	Bottom pair: only cytoskeleton rendered.
+
+34. Stereograms of cell viewed from tip to base of anterior flagellum, or approximately anterior-dorsal to posterior-ventral.  Posterior-dorsal is at top of image.
+	Top pair: full reconstruction, including cytoskeleton, plasma membrane, mitochondrion (lavender) and nucleus (blue).
+	Bottom pair: only cytoskeleton rendered.
+
+35. Stereograms of cell viewed from posterior to anterior.  Dorsal is at top of image.
+	Top pair: cytoskeleton and plasma membrane rendered.
+	Bottom pair: only cytoskeleton rendered.
+
+36. Stereograms of cell viewed from anterior to posterior.  Dorsal is at top of image.
+	Top pair: full reconstruction, including cytoskeleton, plasma membrane, mitochondrion (lavender) and nucleus (blue).
+	Bottom pair: only cytoskeleton rendered.
+
+37. Stereograms of cell viewed from ventral to dorsal.  Anterior is at top of image.
+	Top pair: full reconstruction, including cytoskeleton, plasma membrane, mitochondrion (lavender) and nucleus (blue).
+	Bottom pair: only cytoskeleton rendered.
+
+38. Stereograms of cell viewed from dorsal to ventral.  Anterior is at top of image.
+	Top pair: full reconstruction, including cytoskeleton, plasma membrane, mitochondrion (lavender) and nucleus (blue).
+	Bottom pair: only cytoskeleton rendered.
+
+39. Stereograms of cell viewed from base to tip of posterior flagellum, or approximately right to left through cell.  Dorsal is at top of image, anterior to right.
+	Top pair: cytoskeleton and plasma membrane rendered.
+	Bottom pair: only cytoskeleton rendered.
+
+40. Stereograms of cell viewed from tip to base of posterior flagellum, or approximately left to right through cell.  Dorsal is at top of image, anterior to left.
+	Top pair: full reconstruction, including cytoskeleton, plasma membrane, mitochondrion (lavender) and nucleus (blue).
+	Bottom pair: only cytoskeleton rendered.
+
+Notes:
+	All still images are provided in multiple formats: individual image, stereogram (horizontally displaced stereo pair), and anaglyph (colour-separated stereo pair).  Some but not all images are replicates of figures in the paper; all figures in the paper are represented by images here.  For all images except for the anaglyphs, colours are as for Figs. 8 and 9 in the main text.
+	To view stereograms, look between the dots, then cross your eyes until the two dots overlap.  Relax your focus until the dots have clear, sharp boundaries, while not separating.  Then look up or down at the now-overlapping images to obtain a three-dimensional perspective on the model.
+	Anaglyphs can be viewed with standard red-green glasses (red in the right eye).
+	Animations can be viewed continuously by downloading and checking the 'loop' option in your viewer.
