@@ -78,7 +78,7 @@ Additionally, organizers are available to help community members engage with sec
 
 ## 11. Addressing Grievances
 
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify [Governing Body]()A[Governing Body]()M[Governing Body]()N[Governing Body]()H[Governing Body]() [Governing Body]()B[Governing Body]()r[Governing Body]()i[Governing Body]()d[Governing Body]()g[Governing Body]()e[Governing Body]()U[Governing Body]()P[Governing Body]():[Governing Body]() [Governing Body]()S[Governing Body]()T[Governing Body]()E[Governing Body]()M[Governing Body]() with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies.
+If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify The directors of AMNH BridgeUP: STEM with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies.
 
 ## 12. Scope
 
