@@ -22,7 +22,7 @@ A supplemental goal of this Code of Conduct is to increase open source citizensh
 
 ## 3. Filming and Photography
 
-Hack the Deep may be filmed or photographed by the Museum for its non-profit educational and fundraising purposes including for promoting Museum events and Public Programs, in any form of media, anywhere. In addition, invited members of the press may be present at the event and may also film or photograph the event and the participants. By participating in Hack the Deep, you agree to be filmed or photographed for these purposes.
+Hack the Deep may be filmed or photographed by the Museum for its non-profit educational and fundraising purposes including for promoting Museum events and Public Programs, in any form of media, anywhere. In addition, invited members of the press may be present at the event and may also film or photograph the event and the participants. By participating in Hack the Deep, you agree to be filmed or photographed for these purposes, as also indicated on the accompanying release forms.
 
 ## 4. No Promotion
 
@@ -59,7 +59,7 @@ The following behaviors are considered harassment and are unacceptable within ou
 *   Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
 *   Inappropriate photography or recording.
 *   Inappropriate physical contact. You should have someone’s consent before touching them.
-*   Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
+*   Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcome sexual advances.
 *   Deliberate intimidation, stalking or following (online or in person).
 *   Sustained disruption of any activities during the event, including tours, social functions, and presentations.
 *   Advocating for, or encouraging, any of the above behavior.
@@ -78,7 +78,7 @@ Additionally, organizers are available to help community members engage with sec
 
 ## 11. Addressing Grievances
 
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify The directors of AMNH BridgeUP: STEM with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies.
+If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify the directors of AMNH BridgeUP: STEM with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies.
 
 ## 12. Scope
 
