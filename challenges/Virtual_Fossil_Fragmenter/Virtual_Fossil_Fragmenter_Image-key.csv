@@ -1,0 +1,26 @@
+"Images that have the same file name but are numbered differently (e.g., “Cryptolithus-cranidia01-100iso.jpg” and “Cryptolithus-cranidia02-100iso.jpg”) show the same specimens in the same locations on the grid, but specimens have been rotated. Grid is 1 cm square.",,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+Taxon,Part,Exposure level,File names,Done?,On GH
+Cryptolithus,cranidia,100,Cryptolithus-cranidia-100iso-01.jpg   Cryptolithus-cranidia-100iso-02.jpg,X,x
+Cryptolithus,cranidia,250,Cryptolithus-cranidia-250iso-01.jpg   Cryptolithus-cranidia-250iso-02.jpg,X,x
+Cryptolithus,pygidia,100,Cryptolithus-pygidia-100iso-01.jpg   Cryptolithus-pygidia-100iso-02.jpg,x,x
+Cryptolithus,pygidia,250,Cryptolithus-pygidia-250iso-01.jpg   Cryptolithus-pygidia-250iso-02.jpg,x,x
+Cryptolithus,thoracic segments,100,Cryptolithus-thor-100iso-01.jpg   Cryptolithus-thor-100iso-02.jpg,x,x
+Cryptolithus,thoracic segments,250,Cryptolithus-thor-250iso-01.jpg   Cryptolithus-thor-250iso-02.jpg,x,x
+Cryptolithus,mix,100,Cryptolithus-mix-01-100iso.jpg   Cryptolithus-mix-02-100iso.jpg,x,x
+Cryptolithus,mix,250,Cryptolithus-mix-01-250iso.jpg   Cryptolithus-mix-02-250iso.jpg,x,x
+Cyclocardia,all with umbos,100,Cyclocardia-umbo-100iso-01.jpg  Cyclocardia-umbo-100iso-02.jpg,x,x
+Cyclocardia,all with umbos,250,Cyclocardia-umbo-250iso-01.jpg  Cyclocardia-umbo-250iso-02.jpg,x,x
+Cyclocardia,mix,100,Cyclocardia-mix-100iso-01.jpg  Cyclocardia-mix-100iso-02.jpg,X,
+Cyclocardia,mix,250,Cyclocardia-mix-250iso-01.jpg  Cyclocardia-mix-250iso-02.jpg,,
+Lirobittium,all with aperatures,100,Lirobittium-aper-100iso-01.jpg  Lirobittium-aper-100iso-02.jpg,x,x
+Lirobittium,all with aperatures,250,Lirobittium-aper-250iso-01.jpg  Lirobittium-aper-250iso-02.jpg,x,x
+Lirobittium,mix,100,Lirobittium-mix-100iso-01.jpg  Lirobittium-mix-100iso-02.jpg,x,
+Lirobittium,mix,250,Lirobittium-mix-250iso-01.jpg  Lirobittium-mix-250iso-02.jpg,,
+mollusks,all with umbos/aperatures,100,mollusk-100iso-01.jpg                        mollusk-100iso-02.jpg,x,x
+mollusks,all with umbos/aperatures,250,mollusk-250iso-01.jpg                          mollusk-250iso-02.jpg,x,x
+mollusks,mix,100,mollusk-mix-100iso-01.jpg                mollusk-mix-100iso-02.jpg,X,x
+mollusks,mix,250,mollusk-mix-250iso-01.jpg                mollusk-mix-250iso-02.jpg,X,x
