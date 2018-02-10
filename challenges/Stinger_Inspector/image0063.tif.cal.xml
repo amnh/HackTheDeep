@@ -1,0 +1,328 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Item xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/LeicaMicrosystems.DataEntities.V3_2">
+  <Id>2030abd0-8396-4491-aa9c-6ecf940d7ab1</Id>
+  <ParentId i:nil="true" />
+  <LinkedItemId i:nil="true" />
+  <Type>Computer</Type>
+  <SubType i:nil="true" />
+  <Index i:nil="true" />
+  <Name>Computer</Name>
+  <FolderTypeId i:nil="true" />
+  <Keywords i:nil="true" />
+  <LastModifiedDate>0001-01-01T00:00:00</LastModifiedDate>
+  <Owner i:nil="true" />
+  <Reader i:nil="true" />
+  <Children>
+    <Item>
+      <Id>2e62883d-fc76-4a25-b4e0-3bd1c08b772d</Id>
+      <ParentId>2030abd0-8396-4491-aa9c-6ecf940d7ab1</ParentId>
+      <LinkedItemId i:nil="true" />
+      <Type>Drive</Type>
+      <SubType>Data (D:)</SubType>
+      <Index i:nil="true" />
+      <Name>D:\</Name>
+      <FolderTypeId i:nil="true" />
+      <Keywords i:nil="true" />
+      <LastModifiedDate>0001-01-01T00:00:00</LastModifiedDate>
+      <Owner i:nil="true" />
+      <Reader i:nil="true" />
+      <Children>
+        <Item>
+          <Id>744b86cb-9d8e-42ac-abe5-f5914ed63420</Id>
+          <ParentId>2e62883d-fc76-4a25-b4e0-3bd1c08b772d</ParentId>
+          <LinkedItemId i:nil="true" />
+          <Type>Folder</Type>
+          <SubType i:nil="true" />
+          <Index i:nil="true" />
+          <Name>Yamaly</Name>
+          <FolderTypeId i:nil="true" />
+          <Keywords i:nil="true" />
+          <LastModifiedDate>0001-01-01T00:00:00</LastModifiedDate>
+          <Owner i:nil="true" />
+          <Reader i:nil="true" />
+          <Children>
+            <Item>
+              <Id>fa3b5253-b098-41ec-9d8e-df31faad0889</Id>
+              <ParentId>744b86cb-9d8e-42ac-abe5-f5914ed63420</ParentId>
+              <LinkedItemId i:nil="true" />
+              <Type>Folder</Type>
+              <SubType i:nil="true" />
+              <Index i:nil="true" />
+              <Name>MEX 15</Name>
+              <FolderTypeId i:nil="true" />
+              <Keywords i:nil="true" />
+              <LastModifiedDate>0001-01-01T00:00:00</LastModifiedDate>
+              <Owner i:nil="true" />
+              <Reader i:nil="true" />
+              <Children>
+                <Item>
+                  <Id>c50a9201-74ac-4090-84a6-7aad917560d7</Id>
+                  <ParentId>fa3b5253-b098-41ec-9d8e-df31faad0889</ParentId>
+                  <LinkedItemId i:nil="true" />
+                  <Type>Folder</Type>
+                  <SubType i:nil="true" />
+                  <Index i:nil="true" />
+                  <Name>Cnidae</Name>
+                  <FolderTypeId i:nil="true" />
+                  <Keywords i:nil="true" />
+                  <LastModifiedDate>0001-01-01T00:00:00</LastModifiedDate>
+                  <Owner i:nil="true" />
+                  <Reader i:nil="true" />
+                  <Children>
+                    <Item>
+                      <Id>830562a2-d91b-4123-ae09-08335f7fa33f</Id>
+                      <ParentId>c50a9201-74ac-4090-84a6-7aad917560d7</ParentId>
+                      <LinkedItemId i:nil="true" />
+                      <Type>Folder</Type>
+                      <SubType i:nil="true" />
+                      <Index i:nil="true" />
+                      <Name>Filaments</Name>
+                      <FolderTypeId i:nil="true" />
+                      <Keywords i:nil="true" />
+                      <LastModifiedDate>0001-01-01T00:00:00</LastModifiedDate>
+                      <Owner i:nil="true" />
+                      <Reader i:nil="true" />
+                      <Children>
+                        <Item>
+                          <Id>859df20c-7387-4995-855a-98eb227f1bc7</Id>
+                          <ParentId>830562a2-d91b-4123-ae09-08335f7fa33f</ParentId>
+                          <LinkedItemId i:nil="true" />
+                          <Type>Folder</Type>
+                          <SubType i:nil="true" />
+                          <Index i:nil="true" />
+                          <Name>II</Name>
+                          <FolderTypeId i:nil="true" />
+                          <Keywords i:nil="true" />
+                          <LastModifiedDate>0001-01-01T00:00:00</LastModifiedDate>
+                          <Owner i:nil="true" />
+                          <Reader i:nil="true" />
+                          <Children>
+                            <Item>
+                              <Id>c02adec6-2ec0-4dd3-af76-5548df88d234</Id>
+                              <ParentId>859df20c-7387-4995-855a-98eb227f1bc7</ParentId>
+                              <LinkedItemId i:nil="true" />
+                              <Type>Collection</Type>
+                              <SubType>Image</SubType>
+                              <Index i:nil="true" />
+                              <Name>image0063.tif</Name>
+                              <FolderTypeId i:nil="true" />
+                              <Keywords></Keywords>
+                              <LastModifiedDate>2017-03-16T10:36:10.9409396-04:00</LastModifiedDate>
+                              <Owner i:nil="true" />
+                              <Reader i:nil="true" />
+                              <Children>
+                                <Item>
+                                  <Id>3b0c2db5-bcdb-4bf1-a9ed-ed2f595ba19f</Id>
+                                  <ParentId>c02adec6-2ec0-4dd3-af76-5548df88d234</ParentId>
+                                  <LinkedItemId i:nil="true" />
+                                  <Type>Leaf</Type>
+                                  <SubType>Image</SubType>
+                                  <Index i:nil="true" />
+                                  <Name>image0063.tif</Name>
+                                  <FolderTypeId i:nil="true" />
+                                  <Keywords></Keywords>
+                                  <LastModifiedDate>2017-03-01T14:31:29.3111275-05:00</LastModifiedDate>
+                                  <Owner i:nil="true" />
+                                  <Reader i:nil="true" />
+                                  <Children>
+                                    <Item>
+                                      <Id>3512c04e-d8ba-4a9a-a60f-b6cf3900fa09</Id>
+                                      <ParentId>3b0c2db5-bcdb-4bf1-a9ed-ed2f595ba19f</ParentId>
+                                      <LinkedItemId i:nil="true" />
+                                      <Type>Derived</Type>
+                                      <SubType>Image</SubType>
+                                      <Index i:nil="true" />
+                                      <Name>image0063.tif.thb</Name>
+                                      <FolderTypeId i:nil="true" />
+                                      <Keywords></Keywords>
+                                      <LastModifiedDate>2017-03-01T14:31:29.3111275-05:00</LastModifiedDate>
+                                      <Owner i:nil="true" />
+                                      <Reader i:nil="true" />
+                                    </Item>
+                                  </Children>
+                                </Item>
+                                <Item>
+                                  <Id>fb672997-530d-46f3-88c6-a0510d3f3486</Id>
+                                  <ParentId>c02adec6-2ec0-4dd3-af76-5548df88d234</ParentId>
+                                  <LinkedItemId i:nil="true" />
+                                  <Type>Leaf</Type>
+                                  <SubType>DXAnnotationData</SubType>
+                                  <Index i:nil="true" />
+                                  <Name>image0063.tif.anx</Name>
+                                  <FolderTypeId i:nil="true" />
+                                  <Keywords></Keywords>
+                                  <LastModifiedDate>0001-01-01T00:00:00</LastModifiedDate>
+                                  <Owner i:nil="true" />
+                                  <Reader i:nil="true" />
+                                </Item>
+                                <Item>
+                                  <Id>98d4cbf4-431d-4ee2-b783-c285322cdd17</Id>
+                                  <ParentId>c02adec6-2ec0-4dd3-af76-5548df88d234</ParentId>
+                                  <LinkedItemId i:nil="true" />
+                                  <Type>Leaf</Type>
+                                  <SubType>DXScaleBarSettingsData</SubType>
+                                  <Index i:nil="true" />
+                                  <Name>image0063.tif.sbx</Name>
+                                  <FolderTypeId i:nil="true" />
+                                  <Keywords></Keywords>
+                                  <LastModifiedDate>0001-01-01T00:00:00</LastModifiedDate>
+                                  <Owner i:nil="true" />
+                                  <Reader i:nil="true" />
+                                </Item>
+                                <Item>
+                                  <Id>8deee455-a7c0-4135-8919-0eeb4cf78354</Id>
+                                  <ParentId>c02adec6-2ec0-4dd3-af76-5548df88d234</ParentId>
+                                  <LinkedItemId i:nil="true" />
+                                  <Type>Leaf</Type>
+                                  <SubType>DXExtendedAnnotationData</SubType>
+                                  <Index i:nil="true" />
+                                  <Name>image0063.tif.eax</Name>
+                                  <FolderTypeId i:nil="true" />
+                                  <Keywords></Keywords>
+                                  <LastModifiedDate>0001-01-01T00:00:00</LastModifiedDate>
+                                  <Owner i:nil="true" />
+                                  <Reader i:nil="true" />
+                                </Item>
+                                <Item>
+                                  <Id>26f6c4d8-163c-4048-a327-cb5e146f1eb2</Id>
+                                  <ParentId>c02adec6-2ec0-4dd3-af76-5548df88d234</ParentId>
+                                  <LinkedItemId i:nil="true" />
+                                  <Type>Leaf</Type>
+                                  <SubType>LiveMeasurementsData</SubType>
+                                  <Index i:nil="true" />
+                                  <Name>image0063.tif.lmd</Name>
+                                  <FolderTypeId i:nil="true" />
+                                  <Keywords></Keywords>
+                                  <LastModifiedDate>0001-01-01T00:00:00</LastModifiedDate>
+                                  <Owner i:nil="true" />
+                                  <Reader i:nil="true" />
+                                </Item>
+                              </Children>
+                              <ItemValues>
+                                <ItemValue>
+                                  <Id>89a4bff0-706d-47d6-bbd6-896874cc9ea9</Id>
+                                  <ItemId>c02adec6-2ec0-4dd3-af76-5548df88d234</ItemId>
+                                  <Name>Image_Description</Name>
+                                  <Value xmlns:d18p1="http://www.w3.org/2001/XMLSchema" i:type="d18p1:string"></Value>
+                                </ItemValue>
+                                <ItemValue>
+                                  <Id>bb4e9d8d-99e9-45a7-9f2a-1489c94d810c</Id>
+                                  <ItemId>c02adec6-2ec0-4dd3-af76-5548df88d234</ItemId>
+                                  <Name>Image_Notes</Name>
+                                  <Value xmlns:d18p1="http://www.w3.org/2001/XMLSchema" i:type="d18p1:string"></Value>
+                                </ItemValue>
+                              </ItemValues>
+                              <LasImage>
+                                <Id>c02adec6-2ec0-4dd3-af76-5548df88d234</Id>
+                                <Included>false</Included>
+                                <Processed>true</Processed>
+                                <UnitName>Microns</UnitName>
+                                <CreationUserName>IZ-WS-037\histology</CreationUserName>
+                                <ModificationUserName>IZ-WS-037\histology</ModificationUserName>
+                                <AcquiredDate>2017-03-01T14:31:28.6403275-05:00</AcquiredDate>
+                                <CreationDate>2017-03-01T14:31:28.6091275-05:00</CreationDate>
+                                <ImportDate i:nil="true" />
+                                <XMetresPerPixel>9.26510076341371E-08</XMetresPerPixel>
+                                <YMetresPerPixel>9.26510076341371E-08</YMetresPerPixel>
+                                <BitDepth>24</BitDepth>
+                                <NumPixelsX>1360</NumPixelsX>
+                                <NumPixelsY>1024</NumPixelsY>
+                                <FileSize>4178180</FileSize>
+                                <DecimalPlaces>3</DecimalPlaces>
+                                <Camera>
+                                  <Id>c02adec6-2ec0-4dd3-af76-5548df88d234</Id>
+                                  <Name>DFC500</Name>
+                                  <Serial_Number>05290609</Serial_Number>
+                                  <Exposure>28.0 ms</Exposure>
+                                  <Gamma>1.06</Gamma>
+                                  <Gain>2.4 x</Gain>
+                                  <Auto_Exposure>Off</Auto_Exposure>
+                                  <Brightness i:nil="true" />
+                                  <Black_Clip>0</Black_Clip>
+                                  <White_Clip>255</White_Clip>
+                                  <Image_Type>Colour</Image_Type>
+                                  <Capture_Format>1360 x 1024,    4 Shot co-site color</Capture_Format>
+                                  <Shading>(None)</Shading>
+                                  <Sharpening>Off</Sharpening>
+                                </Camera>
+                                <ImageValues>
+                                  <ImageValue>
+                                    <Id>2b3c7640-3691-4d59-ab05-8c1c07bf0665</Id>
+                                    <LasImageId>c02adec6-2ec0-4dd3-af76-5548df88d234</LasImageId>
+                                    <Name>Microscope_Stand_Name</Name>
+                                    <Type>System.String</Type>
+                                    <Value xmlns:d19p1="http://www.w3.org/2001/XMLSchema" i:type="d19p1:string">DM2500</Value>
+                                  </ImageValue>
+                                  <ImageValue>
+                                    <Id>243aa9e5-31b1-4581-a4fb-6e0e834e9aec</Id>
+                                    <LasImageId>c02adec6-2ec0-4dd3-af76-5548df88d234</LasImageId>
+                                    <Name>Microscope_Ports_Port_Name</Name>
+                                    <Type>System.String</Type>
+                                    <Value xmlns:d19p1="http://www.w3.org/2001/XMLSchema" i:type="d19p1:string">VISUAL</Value>
+                                  </ImageValue>
+                                  <ImageValue>
+                                    <Id>22745c59-7b58-4959-bf31-edfeb58f4f04</Id>
+                                    <LasImageId>c02adec6-2ec0-4dd3-af76-5548df88d234</LasImageId>
+                                    <Name>Microscope_Ports_Article_No</Name>
+                                    <Type>System.String</Type>
+                                    <Value xmlns:d19p1="http://www.w3.org/2001/XMLSchema" i:type="d19p1:string">11505147</Value>
+                                  </ImageValue>
+                                  <ImageValue>
+                                    <Id>c57cfd85-3882-45e9-b2b7-88cd964a625f</Id>
+                                    <LasImageId>c02adec6-2ec0-4dd3-af76-5548df88d234</LasImageId>
+                                    <Name>Microscope_Ports_Num</Name>
+                                    <Type>System.String</Type>
+                                    <Value xmlns:d19p1="http://www.w3.org/2001/XMLSchema" i:type="d19p1:string">1</Value>
+                                  </ImageValue>
+                                  <ImageValue>
+                                    <Id>0e802206-4688-47af-8fbd-6bfd2d4a43a0</Id>
+                                    <LasImageId>c02adec6-2ec0-4dd3-af76-5548df88d234</LasImageId>
+                                    <Name>Microscope_Magchanger_Magnification</Name>
+                                    <Type>System.String</Type>
+                                    <Value xmlns:d19p1="http://www.w3.org/2001/XMLSchema" i:type="d19p1:string">1</Value>
+                                  </ImageValue>
+                                  <ImageValue>
+                                    <Id>18227157-9fd1-49e1-839f-298325a06a3f</Id>
+                                    <LasImageId>c02adec6-2ec0-4dd3-af76-5548df88d234</LasImageId>
+                                    <Name>Microscope_Nosepiece_Objective_Magnification</Name>
+                                    <Type>System.String</Type>
+                                    <Value xmlns:d19p1="http://www.w3.org/2001/XMLSchema" i:type="d19p1:string">100</Value>
+                                  </ImageValue>
+                                  <ImageValue>
+                                    <Id>719595e0-0257-489d-ba91-e5a1086c7fb3</Id>
+                                    <LasImageId>c02adec6-2ec0-4dd3-af76-5548df88d234</LasImageId>
+                                    <Name>Microscope_Nosepiece_Objective_Article_No</Name>
+                                    <Type>System.String</Type>
+                                    <Value xmlns:d19p1="http://www.w3.org/2001/XMLSchema" i:type="d19p1:string">11506195</Value>
+                                  </ImageValue>
+                                  <ImageValue>
+                                    <Id>52f5985b-3d87-4ff4-98d6-215b413b40be</Id>
+                                    <LasImageId>c02adec6-2ec0-4dd3-af76-5548df88d234</LasImageId>
+                                    <Name>Microscope_Nosepiece_Objective_Aperture</Name>
+                                    <Type>System.String</Type>
+                                    <Value xmlns:d19p1="http://www.w3.org/2001/XMLSchema" i:type="d19p1:string">1.30</Value>
+                                  </ImageValue>
+                                  <ImageValue>
+                                    <Id>468468f0-0596-4c65-9c7b-a1cd143593e3</Id>
+                                    <LasImageId>c02adec6-2ec0-4dd3-af76-5548df88d234</LasImageId>
+                                    <Name>Microscope_Nosepiece_Objective_Type</Name>
+                                    <Type>System.String</Type>
+                                    <Value xmlns:d19p1="http://www.w3.org/2001/XMLSchema" i:type="d19p1:string">OIL</Value>
+                                  </ImageValue>
+                                </ImageValues>
+                              </LasImage>
+                            </Item>
+                          </Children>
+                        </Item>
+                      </Children>
+                    </Item>
+                  </Children>
+                </Item>
+              </Children>
+            </Item>
+          </Children>
+        </Item>
+      </Children>
+    </Item>
+  </Children>
+</Item>

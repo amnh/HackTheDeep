@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<DXBasicAnnotationSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.leica.com">
+  <IsShowBasicAnnotation>false</IsShowBasicAnnotation>
+  <IsBurnIn>true</IsBurnIn>
+  <HasPendingBurnIn>false</HasPendingBurnIn>
+  <HasPendingImageDescription>false</HasPendingImageDescription>
+  <IsShowBasicImageName>false</IsShowBasicImageName>
+  <IsShowBasicImageDes>false</IsShowBasicImageDes>
+  <IsShowBasicImageDate>false</IsShowBasicImageDate>
+  <IsShowBasicImageTime>false</IsShowBasicImageTime>
+  <IsShowBasicLine>false</IsShowBasicLine>
+  <IsAutoSizeEnabled>true</IsAutoSizeEnabled>
+  <ArrowLineLabelText />
+  <LineWidth>1</LineWidth>
+  <ImageSize>
+    <Width>1360</Width>
+    <Height>1024</Height>
+  </ImageSize>
+  <LabelFont>
+    <Size>14</Size>
+    <Name>Arial</Name>
+    <Style>Regular</Style>
+  </LabelFont>
+  <LineColour>-65536</LineColour>
+  <LabelTextColor>-1</LabelTextColor>
+  <LabelBackgroundColor>-10144213</LabelBackgroundColor>
+  <ImageNameTool>
+    <Points>
+      <Point2>
+        <X>34.000000506639481</X>
+        <Y>993.28000068664551</Y>
+      </Point2>
+    </Points>
+  </ImageNameTool>
+  <ImageDescriptionTool>
+    <Points />
+  </ImageDescriptionTool>
+  <ImageDateTimeTool>
+    <Points>
+      <Point2>
+        <X>1325.9999994933605</X>
+        <Y>30.719999313354492</Y>
+      </Point2>
+    </Points>
+  </ImageDateTimeTool>
+  <BasicLineTool xsi:nil="true" />
+  <Calibration>
+    <Units>µm</Units>
+    <MetresPerPixel>9.26510076341371E-08</MetresPerPixel>
+  </Calibration>
+</DXBasicAnnotationSettings>
