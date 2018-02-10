@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<DXScaleBarSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.leica.com">
+  <IsShowScaleBar>true</IsShowScaleBar>
+  <IsBurnIn>false</IsBurnIn>
+  <HasPendingBurnIn>false</HasPendingBurnIn>
+  <LineThickness>85</LineThickness>
+  <SignificantDigits>1</SignificantDigits>
+  <Size>20</Size>
+  <ImageSize>
+    <Width>1360</Width>
+    <Height>1024</Height>
+  </ImageSize>
+  <ScaleBarData>
+    <Location>
+      <X>0.1645988</X>
+      <Y>0.0955078155</Y>
+    </Location>
+    <Length>0.15959879931281595</Length>
+    <Position>BottomRight</Position>
+  </ScaleBarData>
+  <ScaleBarLocation>
+    <X>0.1645988</X>
+    <Y>0.0955078155</Y>
+  </ScaleBarLocation>
+  <ScaleBarLength>0.15959879931281595</ScaleBarLength>
+  <ScaleBarPosition>BottomRight</ScaleBarPosition>
+  <LabelFont>
+    <Size>96</Size>
+    <Name>Arial</Name>
+    <Style>Regular</Style>
+  </LabelFont>
+  <ForegroundColour>-16777216</ForegroundColour>
+  <BackgroundColour>8421504</BackgroundColour>
+  <ScaleBarMode>Adaptive</ScaleBarMode>
+  <ScaleBarStyle>Horizontal</ScaleBarStyle>
+  <ScaleBarEndSize>Medium</ScaleBarEndSize>
+</DXScaleBarSettings>

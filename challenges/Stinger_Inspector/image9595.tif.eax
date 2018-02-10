@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<DXExtendedAnnotationSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.leica.com">
+  <IsShowExtendAnnotation>true</IsShowExtendAnnotation>
+  <IsBurnIn>false</IsBurnIn>
+  <HasPendingBurnIn>false</HasPendingBurnIn>
+  <ImageSize>
+    <Width>1360</Width>
+    <Height>1024</Height>
+  </ImageSize>
+  <CurrentExtendedSetting>
+    <ArrowLineLabelText />
+    <LineWidth>2</LineWidth>
+    <IsShowOutLine>false</IsShowOutLine>
+    <ImageSize>
+      <Width>0</Width>
+      <Height>0</Height>
+    </ImageSize>
+    <ScaleBarMode>TopLeft</ScaleBarMode>
+    <LabelFont>
+      <Size>14</Size>
+      <Name>Arial</Name>
+      <Style>Regular</Style>
+    </LabelFont>
+    <LineColour>-65536</LineColour>
+    <LabelTextColor>-1</LabelTextColor>
+    <LabelBackgroundColor>16777215</LabelBackgroundColor>
+    <FillColor>-256</FillColor>
+  </CurrentExtendedSetting>
+  <Calibration>
+    <Units>µm</Units>
+    <MetresPerPixel>9.2142813546316958E-08</MetresPerPixel>
+  </Calibration>
+</DXExtendedAnnotationSettings>
